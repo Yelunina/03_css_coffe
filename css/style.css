@@ -13,12 +13,17 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    
+    /* border-top: 1px, solid transparent; */
+    /* padding-top: 1px; */
+    padding-top: 133px;
+    box-sizing: border-box;
 }
 h1{
     font-size: 100px;
     font-family: 'Covered By Your Grace', cursive;
     color: rgba(65, 8, 8, 0.4);
     text-align: center;
-    padding-top: 132.8px;
+    /* padding-top: 132.8px; */
+
+    /* margin: 132px; */
    }
